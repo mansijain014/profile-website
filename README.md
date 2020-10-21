@@ -2,11 +2,11 @@
 
 ## This is a profile-website.
 
----
+***
 
 ### Languages Used:
 
-- HTML
+- HTML(Hyper Text Markup Language)
 - CSS
 
 ---
