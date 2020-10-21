@@ -14,7 +14,7 @@
 #### You can connect with me here:
 
 [LinkedIn](https://www.linkedin.com/in/mansi-jain-470121198/) <br>
-[Twitter](https://twitter.com/mansi_jain014)
+[Twitter](https://twitter.com/mansi_jain014) <br>
 [Instagram](https://www.instagram.com/mansi.jain014/)
 
 ---
